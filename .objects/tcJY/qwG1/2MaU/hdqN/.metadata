@@ -1,0 +1,13 @@
+﻿{
+  "Name": "chrome.exe ملخص مباراة …",
+  "Type": "Element",
+  "Id": "hdqNtfISD0iFKsRecbT3Pg",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/hdqNtfISD0iFKsRecbT3Pg",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/2MaUj5JGRkaLbODXecDZiA",
+  "Created": "2024-12-10T12:11:12.8806784Z",
+  "Updated": "2024-12-10T12:11:12.8806784Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

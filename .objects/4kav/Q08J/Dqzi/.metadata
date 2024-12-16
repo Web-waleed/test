@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Automation Developer Associate Trainin",
+  "Type": "Screen",
+  "Id": "DqziWwpcJUaEz3bssehXiQ",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/DqziWwpcJUaEz3bssehXiQ",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/Q08JXKdzJEKsgbZHl2m30w",
+  "Created": "2024-12-08T19:03:12.0263258Z",
+  "Updated": "2024-12-08T19:03:12.0263258Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

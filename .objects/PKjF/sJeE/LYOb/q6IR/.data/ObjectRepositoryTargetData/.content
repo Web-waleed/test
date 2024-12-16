@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ivsauY6fSk261wybdf4rsQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="8d1b0a41-dbec-494d-af29-16d4b5b8d1de" DesignTimeRectangle="664, 448, 554, 57" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' /&gt;" FuzzyAccuracy="1" Guid="0378a87a-e69e-452f-b5a6-607d1126904a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="623, 463, 25, 25" ElementType="Icon" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl type='' tag='svg' class='' aaname='' /&gt;" Guid="d7fd633a-63b3-489b-94fc-5fce799d7726" SearchSteps="FuzzySelector" />
+          <Target DesignTimeRectangle="1233, 460, 30, 30" ElementType="Icon" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl class='goxjub' tag='svg' type='' aaname='' /&gt;" Guid="dc83f0d5-93ce-4a81-b30b-1d0629251ee6" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="8d1b0a41-dbec-494d-af29-16d4b5b8d1de" CvElementArea="790, 539, 164, 49" CvTextArea="812, 554, 119, 21" CvTextArgument="Google Search" CvType="Button" DesignTimeRectangle="793, 542, 159, 45" ElementType="Button" FuzzyAccuracy="1" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='submit' tag='INPUT' class='gNO89b' aaname='Google Search' check:text='Google Search' /&gt;" Guid="b3513cc3-2111-45d1-a1b8-ff61234aaf2e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9353f6277fbf8c6d471dd8bc7d3b82fe.png" xmlns="">00m_dqipUpky4xD3XJtp5vg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

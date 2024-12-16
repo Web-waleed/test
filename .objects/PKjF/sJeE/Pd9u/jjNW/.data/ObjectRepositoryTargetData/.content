@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EOEgJdDt5US5cJOWl4E5pA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="8b8537fc-3b63-44c3-86cd-d8852ab91be4" DesignTimeRectangle="256, 403, 421, 91" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='*' parentid='rso' tag='SPAN' /&gt;" Guid="31a139b9-092e-4ba8-8a60-ecfc5bb3f964" ScopeSelectorArgument="&lt;html app='msedge.exe' title='* - Google Search' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="27d326b82fd2fac4bf5ccdbf0e609782.png" xmlns="">0PYaYw4KCdkK6zAkfYhGkMQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

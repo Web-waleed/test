@@ -1,0 +1,14 @@
+﻿{
+  "Name": "DeepL Translate The wo…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "jk9RM2Q1NEaoUnrI4xkPYA",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/jk9RM2Q1NEaoUnrI4xkPYA",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/LYObFn5RqkSW83Ou2U5LzQ",
+  "Created": "2024-12-09T08:53:09.3775943Z",
+  "Updated": "2024-12-09T08:53:09.3775943Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

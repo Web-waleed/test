@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Hala Madrid Song - Lyri…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "_voYagCRe0ikFJZqF1PTjw",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/_voYagCRe0ikFJZqF1PTjw",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/2IiPlNJ290S1hK2aOu4nMw",
+  "Created": "2024-12-11T18:59:39.8655019Z",
+  "Updated": "2024-12-11T18:59:39.8655019Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

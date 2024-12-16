@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oLXvaoSGq0aJbMouD1SiAA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="d02adf52-4d99-436b-82a4-f5484590a0ca" CvTextArea="474, 566, 403, 18" CvTextArgument="Hala Madrid Song - Lyrics by Real Madrid CF" CvType="Text" DesignTimeRectangle="475, 562, 401, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzyAccuracy="0.97" FuzzySelectorArgument="&lt;webctrl class='cHaqb' parentid='rso' tag='SPAN' type='' /&gt;" Guid="d56c1c17-6340-446c-8398-f98bf614e1fd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Hala Madrid - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d02adf52-4d99-436b-82a4-f5484590a0ca" CvTextArea="262, 374, 86, 23" CvTextArgument="Videos" CvType="Text" DesignTimeRectangle="265, 369, 84, 35" ElementType="Text" FuzzyAccuracy="0.98" FuzzySelectorArgument="&lt;webctrl parentid='rso' tag='SPAN' type='' class='mgAbYb OSrXXb RES9jf IFnjPb' aaname='Videos' check:innerText='Videos' /&gt;" Guid="901c9d01-ce8a-43b8-a470-22a439dc78ce" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b180e89036751efd4eeca76231faa48f.png" xmlns="">0mcN9h3-XoU60tZ_hQRKGuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

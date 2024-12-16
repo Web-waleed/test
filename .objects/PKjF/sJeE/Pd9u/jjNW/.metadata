@@ -1,0 +1,14 @@
+﻿{
+  "Name": "خالد محمد جبر الشرفا (@…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "jjNWB7UFyEKvjxEEVPzu5Q",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/jjNWB7UFyEKvjxEEVPzu5Q",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/Pd9umGNA4kGcrn4ZLbO-hw",
+  "Created": "2024-12-03T16:33:41.8219364Z",
+  "Updated": "2024-12-03T16:33:41.8219364Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

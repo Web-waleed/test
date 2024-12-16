@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-ejuOH7ah0yHsSyPQs1zFg" Reference="IP3j-qTueEOnZwAlQDaHxA/mnpWaYROt0iA2eZlReCzcQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/watch" CVScreenId="2f036a8a-ac1d-43fd-86db-c17670edb846" CvElementArea="35, 178, 35, 30" CvType="Icon" DesignTimeRectangle="39, 180, 30, 30" DesignTimeScaleFactor="1.25" FuzzyAccuracy="0.97" FuzzySelectorArgument="&lt;webctrl parentid='guide-icon' tag='DIV' type='' class='' aaname='' /&gt;" Guid="973690d3-f41a-4283-9962-cc849f9a4e6e" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACIAAAAiCAYAAAA6RwvCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAABySURBVFhH7daxCYUhDEXhB07maG7mCG7gCI6Qn5TvcttAivNBSsMpUviLJghRhChCVO+Qc07MOUsmdzs25N4ba62Syd0ON6IIUb1D3nux9y6Z3O3YkHwwxiiZ3O1wI4oQRYiyIXwDOiBEEaIIUYT8i/gAbv8FPG7jeN4AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ملخص مباراة أتليتيكو مدريد وإشبيلية (4-3) | الدوري الإسباني - الجولة 16 - YouTube' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e310605a1bf8369dd134cdb910717071.png" xmlns="">0Q0EjPITjL0aHNRHrXe8BZg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

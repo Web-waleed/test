@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CI2upg4Rj0SQvlZzxk5QNQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="3c62891a-22e6-40b4-b627-0dbb282c8761" DesignTimeRectangle="664, 448, 554, 57" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' aaname='Search' /&gt;" FuzzyAccuracy="0.98" Guid="e4e9f708-e2a0-4548-8bc8-867b10ad46fa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="605, 448, 59, 57" FuzzyAccuracy="0.96" FuzzySelectorArgument="&lt;webctrl class='iblpc' tag='DIV' type='' aaname='' check:text='.CcAdNb{margin:auto}.QCzoEc{margin-top:3px;color:#9aa0a6}' /&gt;" Guid="0862571f-f192-445c-9e6f-d467166be882" SearchSteps="FuzzySelector" />
+          <Target CVScreenId="3c62891a-22e6-40b4-b627-0dbb282c8761" DesignTimeRectangle="793, 542, 159, 45" ElementType="Button" FuzzyAccuracy="0.97" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='submit' tag='INPUT' class='gNO89b' aaname='Google Search' check:text='Google Search' /&gt;" Guid="84cb9a39-86d5-4087-b08f-05b72547d598" SearchSteps="FuzzySelector" />
+          <Target Accuracy="0.97" DesignTimeRectangle="1221, 446, 54, 59" ElementType="Button" Guid="ab90c9c9-2734-446f-af16-fedebcb4b311" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADYAAAA7CAYAAAAw23kDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAIzSURBVGhD7ZZLa9RQGIZnoT/Atf4MdSdC3aibIlIFsZvZeIEuFLurFBcFQVyIunCKi0KRqhSrmy6sLUy9TosoFkS8IXghvdq51GSSk9d8JycDZSJCc07LCd8DLyTfSyAP38kwhWq1hjym8PXbD+QxBeQUFrMNFrMNFrMNFrMNFrMNFrMNFsvCZ0dgtNKU+TIfqqlZjIuVJj10DNTXZXDKU605jIo9+xC0SSV5GnUmMSp2+ZGbKkWhziRGxXqG1lKlKNSZxKjYueE/qVIU6kzCYhuBxQzAYhuBxQzAYv8jeNMJf2Ibgld71QTou/9vMeoSlk+dxPyBPVjt71WT7GgTE+/PSjF/akd0E//JfTDTTJWiUCcJAiwc3ifFajevxjMNaBMLndFYLIr4OaSmQO+d9q3RLMF7MS2lKG75iZpmR983Jlz45Z2xXHlX9MaOKoCx2SYuRkePQtcJYdPDUvGYlKKthY2GarKj9cdDfC/FYo+3o3blOITzSzUpREdwdaCvta3G8G1V6EGrGBG8PYHf5+NvZqGzA+7E+LpNhI063OlJLJ/ubkmt9BTl9nSiXQxCoD54o/XSSejILXUfaZuvXDiDsFZVD+tDv5jCm3mJxa5DbSJJFrsOYm3sXrRCoZ7QizExie/DqzzHp2v9eFjcL/Px+iV4ryvyGzOJWTHFrDOH3SNHZeh6M2CxLORa7Na7EZTm7uZLbCtgMdtgMdtgMdtgMdtgMdtgMdtgMdtgMbsA/gLPMIppl7pTjQAAAABJRU5ErkJggg==" SearchSteps="Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d2a6e54c3014181c8336bdaf1893db52.png" xmlns="">020Vjm97lIECifxb_17qtoA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

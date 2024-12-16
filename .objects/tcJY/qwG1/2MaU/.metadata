@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome ملخص مباراة أتليتيكو مدريد وإشبيلية (4",
+  "Type": "Screen",
+  "Id": "2MaUj5JGRkaLbODXecDZiA",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/2MaUj5JGRkaLbODXecDZiA",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/qwG1ZD0oSUackk4c8b4XhA",
+  "Created": "2024-12-10T12:10:06.2292132Z",
+  "Updated": "2024-12-10T12:10:06.2292132Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

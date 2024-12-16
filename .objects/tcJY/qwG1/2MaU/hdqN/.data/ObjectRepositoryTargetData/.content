@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vn7jqUh47UCnwpX2ITYyVw" Reference="IP3j-qTueEOnZwAlQDaHxA/hdqNtfISD0iFKsRecbT3Pg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/watch" CVScreenId="49d270f2-8d58-4157-ab9e-d83b3f693b45" DesignTimeRectangle="39, 180, 30, 30" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl parentid='guide-icon' tag='DIV' /&gt;" Guid="a1fd20f7-9d75-4b48-ae9a-c0171fc07b16" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ملخص مباراة أتليتيكو مدريد وإشبيلية (4-3) | الدوري الإسباني - الجولة 16 - YouTube' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e310605a1bf8369dd134cdb910717071.png" xmlns="">0XeEb52jQYESQdOIDxrRuAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

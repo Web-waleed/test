@@ -1,0 +1,13 @@
+﻿{
+  "Name": "chrome.exe Google - Goo…",
+  "Type": "Element",
+  "Id": "Go2njSygpk-IBuQCiLg2mg",
+  "Reference": "IP3j-qTueEOnZwAlQDaHxA/Go2njSygpk-IBuQCiLg2mg",
+  "ParentRef": "IP3j-qTueEOnZwAlQDaHxA/LYObFn5RqkSW83Ou2U5LzQ",
+  "Created": "2024-12-10T10:07:02.2047329Z",
+  "Updated": "2024-12-10T10:07:02.2047329Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
